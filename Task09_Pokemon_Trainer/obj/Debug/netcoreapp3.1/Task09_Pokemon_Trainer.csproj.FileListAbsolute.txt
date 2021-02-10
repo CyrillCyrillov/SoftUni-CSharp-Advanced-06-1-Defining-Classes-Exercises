@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\06_Advanced-Defining-Classes-Exercises\Task09_Pokemon_Trainer\obj\Debug\netcoreapp3.1\Task09_Pokemon_Trainer.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\06_Advanced-Defining-Classes-Exercises\Task09_Pokemon_Trainer\obj\Debug\netcoreapp3.1\Task09_Pokemon_Trainer.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\06_Advanced-Defining-Classes-Exercises\Task09_Pokemon_Trainer\obj\Debug\netcoreapp3.1\Task09_Pokemon_Trainer.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\06_Advanced-Defining-Classes-Exercises\Task09_Pokemon_Trainer\obj\Debug\netcoreapp3.1\Task09_Pokemon_Trainer.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\06_Advanced-Defining-Classes-Exercises\Task09_Pokemon_Trainer\bin\Debug\netcoreapp3.1\Task09_Pokemon_Trainer.exe
+C:\Users\Kiril\Advanced_CSharp\06_Advanced-Defining-Classes-Exercises\Task09_Pokemon_Trainer\bin\Debug\netcoreapp3.1\Task09_Pokemon_Trainer.deps.json
+C:\Users\Kiril\Advanced_CSharp\06_Advanced-Defining-Classes-Exercises\Task09_Pokemon_Trainer\bin\Debug\netcoreapp3.1\Task09_Pokemon_Trainer.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\06_Advanced-Defining-Classes-Exercises\Task09_Pokemon_Trainer\bin\Debug\netcoreapp3.1\Task09_Pokemon_Trainer.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\06_Advanced-Defining-Classes-Exercises\Task09_Pokemon_Trainer\bin\Debug\netcoreapp3.1\Task09_Pokemon_Trainer.dll
+C:\Users\Kiril\Advanced_CSharp\06_Advanced-Defining-Classes-Exercises\Task09_Pokemon_Trainer\bin\Debug\netcoreapp3.1\Task09_Pokemon_Trainer.pdb
+C:\Users\Kiril\Advanced_CSharp\06_Advanced-Defining-Classes-Exercises\Task09_Pokemon_Trainer\obj\Debug\netcoreapp3.1\Task09_Pokemon_Trainer.dll
+C:\Users\Kiril\Advanced_CSharp\06_Advanced-Defining-Classes-Exercises\Task09_Pokemon_Trainer\obj\Debug\netcoreapp3.1\Task09_Pokemon_Trainer.pdb
+C:\Users\Kiril\Advanced_CSharp\06_Advanced-Defining-Classes-Exercises\Task09_Pokemon_Trainer\obj\Debug\netcoreapp3.1\Task09_Pokemon_Trainer.genruntimeconfig.cache
